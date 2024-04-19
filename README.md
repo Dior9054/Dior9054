@@ -5,9 +5,7 @@
 
 **Front-End**
 
-<br>
-
-<div style='display:flex ; align-items:center ; '>
+<!-- <div style='display:flex ; align-items:center ; '>
     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png' width='55'>
     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' width='40'/>
     <img src='https://commons.bmstu.wiki/images/b/b8/Bootstrap.png' style='transform:translateY(40px)' width='70'/>
@@ -15,22 +13,10 @@
     <img src='https://oneteamsolutions.in/blogoneteam/wp-content/uploads/2020/05/REACT-JS-KOCHI.png' width='60' />
     <img src='https://pica.zhimg.com/v2-b4e23a502e44692d9f3c8b427ac23e01_720w.jpg?source=172ae18b' width='60' />
     <img src='https://res.cloudinary.com/practicaldev/image/fetch/s--kpVkTsRw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r7kj8y4dfyd1aw989edi.png' width='100' />
-</div>
-
-<br>
-
-
-**Databases**
-
-
-<div style='display:flex ; align-items:center'>
-   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png' style='transform:translateY(40px); ' width='65'/>
-   <img src='https://cdn.freelogovectors.net/wp-content/uploads/2021/01/graphql-logo-freelogovectors.net_.png' style='margin-right:50px' width='60'/>
-</div>
-
-<br>
+</div> -->
 
 **Tools**
+
 <div style='display:flex ; align-items:center ; flex-wrap:wrap'>
 
 <img src='https://firebase.google.com/images/social.png' width='85'>
@@ -40,21 +26,3 @@
 <img src='https://p.kindpng.com/picc/s/128-1280187_github-logo-png-github-transparent-png.png' width='85'>
 <img src='https://logowik.com/content/uploads/images/bitbucket9553.jpg' width='85'>
 </div>
-
-
-
-<!--
-**DJWOMS/DJWOMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
