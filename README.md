@@ -3,9 +3,9 @@
 **Front-End**
 
 <div style='display:flex; align-items:center;'>
-     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png' style="width: 60px; height: 60px; object-fit: contain;">
-     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' style="width: 60px; height: 60px; object-fit: contain;"/>
-     <img src='https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle.png' style="width: 60px; height: 60px; object-fit: contain;"/>
+     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png' width="60">
+     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' width="60"/>
+     <img src='https://w7.pngwing.com/pngs/503/848/png-transparent-javascript-computer-icons-software-developer-cascading-style-sheets-javascript-logo-angle-text-rectangle.png' width="60"/>
     <!--
     <img src='https://commons.bmstu.wiki/images/b/b8/Bootstrap.png' style='transform:translateY(40px)' width='70'/>
     <img src='https://lh3.googleusercontent.com/proxy/wwPjnG_3Hu8u7s24KISrVZi70WbhQh1higrD6L0p5Fwn1jI0MFc8AqQhXrCqFwcfGlai5GjUu0LFlnaP8ui2AekjgdflDojWsMj4o_7vMx-LkOiqvJRYGRhgb1Xk2RnDiOQDkamh-m_venE0Gv_EjdAjzzR8QmqAdhXDFJQM6_7-pUil' width='60' />
