@@ -18,12 +18,11 @@
 
 **Tools**
 
-<!-- <div style='display:flex ; align-items:center ; flex-wrap:wrap'>
-
-<img src='https://firebase.google.com/images/social.png' width='85'>
-<img src='https://images.squarespace-cdn.com/content/v1/57c649658419c2380d1947be/1530749877859-XD498I2YH1GZ00CUYXQ5/Artboard+1.png?format=1000w' width='76'>
+<div style='display:flex ; align-items:center ; flex-wrap:wrap'>
+  <img src='https://git-scm.com/images/logo@2x.png' width='60'>
+<!-- <img src='https://images.squarespace-cdn.com/content/v1/57c649658419c2380d1947be/1530749877859-XD498I2YH1GZ00CUYXQ5/Artboard+1.png?format=1000w' width='76'>
 <img src='https://www.itmaison.tech/wp-content/uploads/2020/11/Linux.jpg' width='85'>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png' width='85'>
 <img src='https://p.kindpng.com/picc/s/128-1280187_github-logo-png-github-transparent-png.png' width='85'>
-<img src='https://logowik.com/content/uploads/images/bitbucket9553.jpg' width='85'>
-</div> -->
+<img src='https://logowik.com/content/uploads/images/bitbucket9553.jpg' width='85'> -->
+</div>
