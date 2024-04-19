@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="center" height="320" width="500" />
 </div>  
-### <div align="center">Привет👋 Меня зовут Dior</div>  
+<div align="center">Привет👋 Меня зовут Dior</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
