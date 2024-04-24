@@ -10,7 +10,8 @@
 
 ### tools  
 <div>  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+  <img style="margin: 10px" src="/assets/svg/git.svg" alt="Git" height="50" />
+  <img style="margin: 10px" src="/assets/svg/npm.svg" alt="npm" height="50" />
 </div>
 
 
