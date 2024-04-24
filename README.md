@@ -9,10 +9,10 @@
 </div>
 
 ### tools  
-<div>  
+<div style="display: flex;">
   <img style="margin: 10px" src="/assets/svg/git.svg" alt="Git" height="50" />
   <img style="margin: 10px" src="/assets/svg/npm.svg" alt="npm" height="50" />
-  <img style="margin: 10px" src="/assets/svg/yarn.svg" alt="yarn" height="50" />
+  <img style="margin: 10px" src="/assets/svg/yarn.svg" alt="yarn" height="40" />
 </div>
 
 
