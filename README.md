@@ -6,9 +6,11 @@
   <img style="margin: 10px" src="assets/svg/html.svg" alt="HTML5" height="50" />
   <img style="margin: 10px" src="assets/svg/css.svg" alt="CSS3" height="50" />
   <img style="margin: 10px" src="assets/svg/js.svg" alt="JavaScript" height="40" />
+  <img style="margin: 10px" src="assets/svg/tailwindcss.svg" alt="Tailwindcss" height="40" />
 </div>
 
-### tools  
+### tools
+
 <div>
   <img style="margin: 10px" src="/assets/svg/git.svg" alt="Git" height="50" />
   <img style="margin: 10px" src="/assets/svg/npm.svg" alt="npm" height="50" />
