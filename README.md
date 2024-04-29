@@ -12,13 +12,14 @@
   <img style="margin: 10px" src="assets/svg/typescript.svg" alt="TypeScript" height="50" />
 </div>
 
-### tools
+### Tools & Platforms:
 
 <div>
   <img style="margin: 10px" src="/assets/svg/git.svg" alt="Git" height="50" />
   <img style="margin: 10px" src="/assets/svg/npm.svg" alt="npm" height="50" />
   <img style="margin: 10px" src="/assets/svg/yarn.svg" alt="yarn" height="50" />
   <img style="margin: 10px" src="/assets/svg/github.svg" alt="github" height="50" />
+  <img style="margin: 10px" src="/assets/svg/vscode.svg" alt="vscode" height="50" />
 </div>
 
 
