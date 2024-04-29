@@ -8,6 +8,7 @@
   <img style="margin: 10px" src="assets/svg/js.svg" alt="JavaScript" height="40" />
   <img style="margin: 10px" src="assets/svg/tailwindcss.svg" alt="Tailwindcss" height="50" />
   <img style="margin: 10px" src="assets/svg/sass.svg" alt="Sass" height="50" />
+  <img style="margin: 10px" src="assets/svg/react.svg" alt="React" height="50" />
 </div>
 
 ### tools
